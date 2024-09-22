@@ -1,0 +1,19 @@
+# Files and directories to ignore when building Docker image
+# IDE-specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Test and documentation files
+test/
+docs/
